@@ -113,6 +113,8 @@ public class BuilderCourse
     }
 
 }
+
+// After Builder
 public static class RegistrationCallSites
 {
     public static CourseRegistration CreateLiveStudentUgly()
