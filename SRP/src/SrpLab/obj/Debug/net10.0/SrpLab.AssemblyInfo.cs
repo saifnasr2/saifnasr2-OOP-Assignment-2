@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SrpLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e80fbb1321cdaf96362503e6a9bf4a7fea5979a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a2f6d8fd185595ce843656db9a6bfd9ddb068f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SrpLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SrpLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
