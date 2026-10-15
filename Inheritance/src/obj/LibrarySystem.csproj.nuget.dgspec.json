@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\Inheritance\\src\\LibrarySystem.csproj": {}
+    "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem.csproj": {}
   },
   "projects": {
-    "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\Inheritance\\src\\LibrarySystem.csproj": {
+    "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\Inheritance\\src\\LibrarySystem.csproj",
+        "projectUniqueName": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem.csproj",
         "projectName": "LibrarySystem",
-        "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\Inheritance\\src\\LibrarySystem.csproj",
+        "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem.csproj",
         "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-        "outputPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\Inheritance\\src\\obj\\",
+        "outputPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\Inheritance\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

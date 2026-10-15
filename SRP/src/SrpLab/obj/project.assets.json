@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\SRP\\src\\SrpLab\\SrpLab.csproj",
+      "projectUniqueName": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab.csproj",
       "projectName": "SrpLab",
-      "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\SRP\\src\\SrpLab\\SrpLab.csproj",
+      "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab.csproj",
       "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-      "outputPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\SRP\\src\\SrpLab\\obj\\",
+      "outputPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\SRP\\src\\SrpLab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

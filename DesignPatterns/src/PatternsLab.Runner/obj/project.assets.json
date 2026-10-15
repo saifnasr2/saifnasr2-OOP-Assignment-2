@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsLab.Runner.csproj",
+      "projectUniqueName": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsLab.Runner.csproj",
       "projectName": "PatternsLab.Runner",
-      "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsLab.Runner.csproj",
+      "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsLab.Runner.csproj",
       "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-      "outputPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\DesignPatterns\\src\\PatternsLab.Runner\\obj\\",
+      "outputPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\DesignPatterns\\src\\PatternsLab\\PatternsLab.csproj": {
-              "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\saifnasr2-OOP-Assignment-2 - Copy\\DesignPatterns\\src\\PatternsLab\\PatternsLab.csproj"
+            "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab\\PatternsLab.csproj": {
+              "projectPath": "D:\\Diploma\\Assignments\\Submissions\\Assignment-6\\new repo\\saifnasr2-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab\\PatternsLab.csproj"
             }
           }
         }
